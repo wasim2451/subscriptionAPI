@@ -1,0 +1,52 @@
+{
+  "success": true,
+  "message": "User created successfully",
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2N2MwNzk5ZDAyYjhjM2IyYWVkMTJmZWEiLCJpYXQiOjE3NDA2NjcyOTMsImV4cCI6MTc0MzI1OTI5M30.SxPmfrGGzjxR4Z6y0Bf1cmYIHUPjaRIN0zOEK3RmEzU",
+    "user": {
+      "name": "Sarthak Das",
+      "email": "merevolt2u@gmail.com",
+      "password": "$2b$10$ztvDuZM9WKLa7iRJ0YYIi.co/kZbmB68yHT7nFW9SMieS4gS1lfy2",
+      "_id": "67c0799d02b8c3b2aed12fea",
+      "createdAt": "2025-02-27T14:41:33.898Z",
+      "updatedAt": "2025-02-27T14:41:33.898Z",
+      "__v": 0
+    }
+  }
+}
+
+
+
+
+
+{
+  "success": true,
+  "message": "User created successfully",
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2N2MwOTM0ZTNkNmQ3NjQ2MjM4Y2Q5MDAiLCJpYXQiOjE3NDA2NzM4NzAsImV4cCI6MTc0MzI2NTg3MH0.uxCxg1ir-9guYZwJsw6l7BYBbLXYGxbmtN-cWlTIpdw",
+    "user": {
+      "name": "Wasim Akhtar Khan",
+      "email": "wasimakhtarkhan2003@gmail.com",
+      "password": "$2b$10$6d3DvVCSsXxKzEldRXw2GeUs18JVto2YpBQ4YArjHE/B4ANK.UycW",
+      "_id": "67c0934e3d6d7646238cd900",
+      "createdAt": "2025-02-27T16:31:10.658Z",
+      "updatedAt": "2025-02-27T16:31:10.658Z",
+      "__v": 0
+    }
+  }
+}
+
+// testing
+{
+  "name": "BokaChoda Course",
+  "price": 139.00,
+  "currency": "USD",
+  "frequency": "weekly",
+  "category": "entertainment",
+  "startDate": "2025-02-27",
+  "paymentMethod": "Credit Card"
+}
+
+
+
+
